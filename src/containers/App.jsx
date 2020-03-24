@@ -4,6 +4,7 @@ import Search from '../components/Search.jsx';
 import Categories from '../components/Categories.jsx';
 import Carousel from '../components/Categories.jsx';
 import CarouselItem from '../components/CarouselItem.jsx';
+import Footer from '../components/Footer.jsx'; 
 
 import '../assets/styles/App.scss'
 
@@ -19,6 +20,8 @@ const App = () => (
                 <CarouselItem />
             </Carousel>
         </Categories>
+
+        <Footer />
     </div>
 );
 
