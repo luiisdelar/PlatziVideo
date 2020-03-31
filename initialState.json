@@ -1,0 +1,38 @@
+{
+    "initalState": {
+        "mylist": [],
+        "trends": [
+            {
+                "id": 2,
+                "slug": "tvshow-2",
+                "title": "In the Dark",
+                "type": "Scripted",
+                "language": "English",
+                "year": 2009,
+                "contentRating": "16+",
+                "duration": 164,
+                "cover": "http:",
+                "description": "Cualquier descripcion de pelicula",
+                "source": "httpsdssa.mp4"
+            },
+            {
+                "id": 3,
+                "slug": "tvshow-2",
+                "title": "In the Dark",
+                "type": "Scripted",
+                "language": "English",
+                "year": 2009,
+                "contentRating": "16+",
+                "duration": 164,
+                "cover": "http:",
+                "description": "Cualquier descripcion de pelicula",
+                "source": "httpsdssa.mp4"
+            }
+        ],
+        "originals": [
+            {
+                
+            }
+        ]
+    }
+}
